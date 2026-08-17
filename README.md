@@ -1,17 +1,44 @@
 # CyberFantasy
 
-CyberFantasy è un RPG testuale sviluppato in Python, ambientato in un mondo fantasy popolato da creature ostili, combattimenti e tesori.
+**CyberFantasy** is a text-based RPG developed in **Python**, set in a fantasy world filled with dangerous creatures, combat, loot, potions, and weapons.
 
-**Tutto il resto è da scoprire! ;)**
+You play as an adventurer whose goal is to survive a series of battles and ultimately defeat the **Dragon**, the final enemy.
 
-## LICENZA
+## Features
 
-**CyberFantasy © 2026 Leone — Tutti i diritti riservati.**
+* ⚔️ Turn-based combat
+* ❤️ Player health system
+* 🧪 Different types of potions
+* 🗡️ Multiple weapons with different damage values
+* 👾 Several enemies with increasing difficulty
+* 🎁 Random enemy loot
+* 🎒 Inventory system
+* 🐉 Final battle against the Dragon
+* ⌨️ Fully text-based gameplay
 
-Il codice sorgente è pubblicato esclusivamente a scopo di studio e riferimento.
+## Requirements
 
-È consentito prendere ispirazione dal progetto e utilizzarne le idee per creare una propria versione originale, purché il codice venga sviluppato autonomamente.
+* **Python 3.x**
+* No external libraries are required.
 
-È vietato copiare, ripubblicare, distribuire, rivendere o utilizzare **CyberFantasy o parti sostanziali del suo codice per scopi commerciali** senza autorizzazione scritta dell'autore.
+## How to Play
 
-Per utilizzi non previsti da queste condizioni, è necessaria l'autorizzazione dell'autore.
+Run the main Python file:
+
+```bash
+python CyberFantasy.py
+```
+
+Follow the instructions displayed in the terminal and choose your actions during combat.
+
+## License
+
+**CyberFantasy © 2026 Leone — All rights reserved.**
+
+The source code is published exclusively for study and reference purposes.
+
+You may take inspiration from the project and use its ideas to create your own original version, provided that the code is developed independently.
+
+Copying, republishing, distributing, reselling, or using **CyberFantasy or substantial portions of its code for commercial purposes** without the author's written permission is prohibited.
+
+For uses not covered by these terms, authorization from the author is required.
