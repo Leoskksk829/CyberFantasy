@@ -30,15 +30,3 @@ python CyberFantasy.py
 ```
 
 Follow the instructions displayed in the terminal and choose your actions during combat.
-
-## License
-
-**CyberFantasy © 2026 Leone — All rights reserved.**
-
-The source code is published exclusively for study and reference purposes.
-
-You may take inspiration from the project and use its ideas to create your own original version, provided that the code is developed independently.
-
-Copying, republishing, distributing, reselling, or using **CyberFantasy or substantial portions of its code for commercial purposes** without the author's written permission is prohibited.
-
-For uses not covered by these terms, authorization from the author is required.
